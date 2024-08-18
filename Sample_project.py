@@ -1,1 +1,7 @@
-print("Hello , Welcome to AWS Cloud9 IDE")
+print("***************Hello , Welcome to AWS Cloud9 IDE**************************")
+print("This project demonstrates use of cloud based IDE using Cloud9 AWS service.")
+print("Version control has been set up using Git and GitHub.")
+print("The project has been successfully connected to my GitHub account.")
+print("Changes to the code are being tracked, and updates can be pushed to the remote repository.")
+print("This we have successfully created the Cloud9 Environment & connected the source code to the GitHub")
+print("================================THANKYOU!!!==================================")
